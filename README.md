@@ -1,4 +1,3 @@
-# os
-os
+Operating systems
 
-created by norbit and silentX
+Yoav Levy & Shai gindin
